@@ -110,6 +110,8 @@
 ![Screenshot from 2025-04-24 18-49-31](https://github.com/user-attachments/assets/dbb7d12c-d1b8-4f39-9e15-ca1e9426c72a)
 <p>token generated on console.log</p>
 ![Screenshot from 2025-04-24 18-47-47](https://github.com/user-attachments/assets/345e32d6-e452-45cc-b2ce-102a676e7c82)
+<p>Notifications message </p>
+![1000186793](https://github.com/user-attachments/assets/73b587e0-372f-463e-9929-6d5f5484d47a)
 
 
 
