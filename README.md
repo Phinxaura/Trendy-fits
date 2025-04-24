@@ -96,15 +96,15 @@
 </pre>
 <br>
 <h1>Project Demo</h1>
-<p>project on mobile phone </p>
+<b><p>project on mobile phone </p></b>
 ![1000186785](https://github.com/user-attachments/assets/946eeec2-1ec0-4838-a004-4e397df4c0eb)
 <p>Install App on mobile phone</p>
 ![1000186788](https://github.com/user-attachments/assets/0e65d6bd-caca-489d-9117-21f019695e24)
 <p>Splash Screen</p>
 ![1000186790](https://github.com/user-attachments/assets/95c7e53d-cd5f-43f8-8391-0b5c22e5b9e5)
 <br>
-<p>Project on desktop</p>
-<p>Asking for permission </p>
+<br>
+<b><p>Project on desktop</p></b><p>Asking for permission </p>
 ![Screenshot from 2025-04-24 18-47-20](https://github.com/user-attachments/assets/77c29793-e4b2-4c91-86d9-1e8144e101a6)
 <p>Install App</p>
 ![Screenshot from 2025-04-24 18-49-31](https://github.com/user-attachments/assets/dbb7d12c-d1b8-4f39-9e15-ca1e9426c72a)
