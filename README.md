@@ -100,21 +100,35 @@ password : 123
 </pre>
 <br>
 <h1>Project Demo</h1>
-<b><p>project on mobile phone </p></b>
+<b><p>project on mobile phone 
+</p></b>
+
 ![1000186785](https://github.com/user-attachments/assets/946eeec2-1ec0-4838-a004-4e397df4c0eb)
-<p>Install App on mobile phone</p>
+<br>
+<b><p>Install App on mobile phone</p></b>
+<br>
 ![1000186788](https://github.com/user-attachments/assets/0e65d6bd-caca-489d-9117-21f019695e24)
-<p>Splash Screen</p>
+<br>
+<br>
+<b><p>Splash Screen</p></b>
+<br>
 ![1000186790](https://github.com/user-attachments/assets/95c7e53d-cd5f-43f8-8391-0b5c22e5b9e5)
 <br>
 <br>
 <b><p>Project on desktop</p></b><p>Asking for permission </p>
+<br>
 ![Screenshot from 2025-04-24 18-47-20](https://github.com/user-attachments/assets/77c29793-e4b2-4c91-86d9-1e8144e101a6)
-<p>Install App</p>
+<br>
+<b><p>Install App</p></b>
+<br>
 ![Screenshot from 2025-04-24 18-49-31](https://github.com/user-attachments/assets/dbb7d12c-d1b8-4f39-9e15-ca1e9426c72a)
-<p>token generated on console.log</p>
+<br>
+<b><p>token generated on console.log</p></b>
+<br>
 ![Screenshot from 2025-04-24 18-47-47](https://github.com/user-attachments/assets/345e32d6-e452-45cc-b2ce-102a676e7c82)
-<p>Notifications message </p>
+<br>
+<b><p>Notifications message </p></b>
+<br>
 ![1000186793](https://github.com/user-attachments/assets/73b587e0-372f-463e-9929-6d5f5484d47a)
 
 
