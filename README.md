@@ -10,7 +10,7 @@ password : 123
   
   1. Install the vite-plugin-pwa
   2. Run the following command in your project directory :
-  <b>Command : npm install vite-plugin-pwa</b>  
+  <b>Command : npm install firebase vite-plugin-pwa</b>  
   Step 2 : 
   
   1. Import and Configure the Plugin in vite.config.ts
