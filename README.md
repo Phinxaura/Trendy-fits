@@ -1,8 +1,4 @@
 <h1> Trendy Fits </h1>
-<pre>
-  Email : admin@gmail.com
-  password : 123
-</pre>
 <b> Steps to To configure your Vite project as a Progressive Web App (PWA) using the vite-plugin-pwa, follow these steps in your vite.config.ts file : </b>
 
 <pre>
