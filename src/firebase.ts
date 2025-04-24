@@ -11,14 +11,14 @@ const firebaseConfig = {
   measurementId: 'G-2PHWVW7PQH',
 };
 
-// Initialize Firebase
+
 const firebaseApp = initializeApp(firebaseConfig);
 const messaging = getMessaging(firebaseApp);
 
-// 🔐 Replace this with your actual VAPID key from Firebase project settings
+
 const VAPID_KEY = 'BKXUjJczDOs0T-zp8amvd0JzkqrmsAW8o2tdKtzLGshGE1M8ybp89WUOIvMpyfm5HJvAy6CrcW-aGotXeFYj6nA';
 
-// 👉 Request user permission and get FCM token
+
 export const requestNotificationPermission = async (): Promise<void> => {
   try {
     const permission = await Notification.requestPermission();
@@ -32,20 +32,20 @@ export const requestNotificationPermission = async (): Promise<void> => {
     });
 
     if (token) {
-      console.log('✅ FCM Token:', token);
-      // Optionally send this token to your backend
+      console.log(' FCM Token:', token);
+     
     } else {
       console.warn('⚠️ No FCM registration token available.');
     }
   } catch (error) {
-    console.error('❌ Error getting FCM token:', error);
+    console.error(' Error getting FCM token:', error);
   }
 };
 
 export const onFirebaseMessage = () =>
     new Promise((resolve) => {
       onMessage(messaging, (payload) => {
-        console.log('📩 Message received in foreground:', payload);
+        console.log(' Message received in foreground:', payload);
         resolve(payload);
       });
     });
