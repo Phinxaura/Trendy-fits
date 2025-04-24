@@ -35,7 +35,7 @@ export const requestNotificationPermission = async (): Promise<void> => {
       console.log(' FCM Token:', token);
      
     } else {
-      console.warn('⚠️ No FCM registration token available.');
+      console.warn(' No FCM registration token available.');
     }
   } catch (error) {
     console.error(' Error getting FCM token:', error);
